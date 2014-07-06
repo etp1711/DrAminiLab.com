@@ -7,7 +7,6 @@
 				<img  src="images/parts/3.jpg"/>
 
 
-
 			</div>
 		</div>
 	</section>
