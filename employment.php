@@ -19,11 +19,17 @@
 				<form action="employment-mail.php" name="employment" id="employment" method="post" target="ifrm">
 				<div class="form-div">
 						<div class="first">
-							<h3>مشخصات</h3>
+							<h3>مشخصات و اطلاعات تماس</h3>
 							<input name="namein" id="namein" class="namein em-name"   type="text" placeholder="نام :" />
 							<input name="familin" id="familin" class="familin em-family" type="text" placeholder="نام خانوادگی :" />
 							<input name="birthin" id="birthin" class="birthin em-city"   type="text" placeholder="محل تولد :" />
 							<input name="agein" id="agein" class="agein em-age"    type="number" min="1340" max="1373"placeholder="سال تولد :"  />
+
+							<input name="telin" id="telin" class="telin em-phone"        type="text" placeholder="تلفن :" />
+							<input name="mobin" id="mobin" class="mobin em-mobile" 		 type="text" placeholder="همراه :" />
+							<input name="emailin" id="emailin" class="emailin em-email"  type="text" placeholder="ایمیل :" />
+							<input name="adresin" id="adresin" class="adresin em-adress" type="text" placeholder="آدرس :" />	
+						
 						</div>
 						<div class="second">
 							<h3>شرایط همکاری</h3>
@@ -32,13 +38,18 @@
 	  							<option class="color">متاهل</option>
 	  							<option class="color">مجرد</option>
 	  						</select>
+
 							<select name="evidencein" id="evidencein" class="evidencein"><!-- Madrak -->
-								<option value="0">مدرک تحصیلی</option>
-	  							<option class="color">فوق دیپلم</option>
-	  							<option class="color">لیسانس</option>
-	  							<option class="color">فوق لیسانس</option>
-	  							<option class="color">دکترا</option>
+								<option value="0" >مدرک تحصیلی</option>
+	  							<option value="1"	class="color">فوق دیپلم</option>
+	  							<option value="2"	class="color">لیسانس</option>
+	  							<option value="3"	class="color">فوق لیسانس</option>
+	  							<option value="4"	class="color">دکترا</option>
 							</select>
+
+							<input name="Field-Study" id="study" class="s"   type="text" placeholder="رشته تحصیلی :" />
+							<input name="Field-Study" id="study" class="s"   type="text" placeholder="نام دانشگاه :" />
+							<input name="average" id="average" class="average-ma"   type="text" placeholder="معدل :" />
 
 							<select name="partin" id="partin" class="partin"><!-- Bakhsh -->
 								<option value="0">بخش مورد نظر :</option>
@@ -58,19 +69,17 @@
 	  							<option class="color">بعد از ظهر</option>
 	  							<option class="color">مهم نیست</option>
 	  						</select>
+
 						</div>
-						<div class="third">
-							<h3>اطلاعات تماس</h3>
-							<input name="telin" id="telin" class="telin em-phone"        type="text" placeholder="تلفن :" />
-							<input name="mobin" id="mobin" class="mobin em-mobile" 		 type="text" placeholder="همراه :" />
-							<input name="emailin" id="emailin" class="emailin em-email"  type="text" placeholder="ایمیل :" />
-							<input name="adresin" id="adresin" class="adresin em-adress" type="text" placeholder="آدرس :" />	
-						</div>
+
+						
+						<!-- Sabegheh -->
 						<div class="description">
 							<textarea name="historyin" id="historyin" class="historyin r-hist" placeholder="سابقه :"></textarea>
 							<textarea name="explainin" id="explainin" class="explainin l-desc" placeholder="توضیحات :"></textarea>
 
 						</div>
+
 						<div class="btns">
 							<input id="keys" type="submit" value="ارسال" class="submit"/>
 							<input id="keys" type="reset" value="جدید" class="reset"/>
