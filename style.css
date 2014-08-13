@@ -309,10 +309,11 @@ section.middle .threebox .content .left a, section.middle .threebox .content .mi
 	background:             -moz-linear-gradient( -90deg, rgba(55, 223, 253, 1), rgba(1, 171, 215, 1) );
 	background:             -o-linear-gradient( -90deg, rgba(55, 223, 253, 1), rgba(1, 171, 215, 1) );
 	background:             -ms-linear-gradient( -90deg, rgba(55, 223, 253, 1), rgba(1, 171, 215, 1) );
-	-webkit-transition: 	all 500ms;
-  	-moz-transition: 		all 500ms;
-  	-o-transition: 			all 500ms;
-  	-ms-transition: 		all 500ms;
+	-webkit-transition: 	all 100ms;
+  	-moz-transition: 		all 100ms;
+  	-o-transition: 			all 100ms;
+  	-ms-transition: 		all 100ms;
+  	border: 1px solid rgb(255,255,255);
 }
 
 /* ----------------------*/
@@ -367,10 +368,10 @@ section.middle .text-part .content .left-part .bigtext a:hover{
 	background:             -moz-linear-gradient( -90deg, rgba(55, 223, 253, 1), rgba(1, 171, 215, 1) );
 	background:             -o-linear-gradient( -90deg, rgba(55, 223, 253, 1), rgba(1, 171, 215, 1) );
 	background:             -ms-linear-gradient( -90deg, rgba(55, 223, 253, 1), rgba(1, 171, 215, 1) );
-	-webkit-transition: 	all 500ms;
-  	-moz-transition: 		all 500ms;
-  	-o-transition: 			all 500ms;
-  	-ms-transition: 		all 500ms;
+	-webkit-transition: 	all 100ms;
+  	-moz-transition: 		all 100ms;
+  	-o-transition: 			all 100ms;
+  	-ms-transition: 		all 100ms;
 }
 section.middle .text-part .content .left-part .bigtext p span.middle{
 	color: 					#00C5FE;
@@ -829,81 +830,74 @@ section.middle .employment .contain{
 	margin: 				0 auto;
 	margin-top: 			10px;
 	width: 					900px;
-	min-height: 			950px;
-	
+	min-height: 			870px;
 }
 section.middle .employment .contain .form-div{
 	margin: 				0 auto;
 	width: 					900px;
-	min-height: 			800px;
+	min-height: 			700px;
 	border:   				0px solid #CCC;
 	border-radius: 			15px;
+	outline: 				0px solid blue;
+	padding-top: 			1px;
+}
+section.middle .employment .contain .form-div .first, section.middle .employment .contain .form-div .second{
+	min-height: 			490px;
+	margin-top:  			30px;
 }
 section.middle .employment .contain .form-div .first{
 	float: 					right;
-	min-height: 			250px;
 	width: 					400px;
 	margin-right: 			20px;
-	margin-top:  			0px;
+	
 }
-section.middle .employment .contain .form-div .first h3{
+section.middle .employment .contain .form-div .second{
+	margin-right: 			480px;
+	margin-left: 			30px;
+	
+}
+section.middle .employment .contain .form-div .first h3, section.middle .employment .contain .form-div .second h3{
 	text-align: 			center;
+	margin-top: 			0;
+	font-size: 				19px;
 }
-section.middle .employment .contain .form-div .first input{
+section.middle .employment .contain .form-div .first input, section.middle .employment .contain .form-div .second input{
 	width: 					290px;
 	height: 				30px;
 	margin-right: 			50px;
 	margin-top: 			5px;
 }
-
-section.middle .employment .contain .form-div .second{
-	min-height: 			250px;
-	margin-right: 			480px;
-	margin-top:  			50px;
-	margin-left: 			30px;
-}
-section.middle .employment .contain .form-div .second h3{
-	text-align: 			center;
-}
 section.middle .employment .contain .form-div .second select{
-	width: 					290px;
+	width: 					294px;
 	height: 				35px;
 	margin-right: 			50px;
 	margin-top: 			5px;
+}
+section.middle .employment .contain .form-div .second select{
+	color: 					#aaa;
+}
+section.middle .employment .contain .form-div .second option{
 	color: 					#000;
+}
 
+section.middle .employment .contain .form-div .description{
+	margin-top: 0px;
 }
-section.middle .employment .contain .form-div .second select .color{
-	color: 					#000;
-}
-section.middle .employment .contain .form-div .third{
-	margin: 				0 auto;
-	min-height: 			250px;
-	width: 					400px;
-}
-section.middle .employment .contain .form-div .third h3{
-	text-align: 			center;
-}
-section.middle .employment .contain .form-div .third input{
-	width: 					290px;
-	height: 				30px;
-	margin-right: 			50px;
-	margin-top: 			5px;
-}
+
 section.middle .employment .contain .form-div textarea{
 	width: 					290px;
 	height: 				200px;
 	margin-right: 			70px;
-	margin-top: 			50px;
 }
 section.middle .employment .contain .form-div .l-desc{
 	margin-right: 			160px;
+
 }
 section.middle .employment .contain .form-div .btns{
 	width: 					190px;
 	min-height: 			60px;
 	margin: 				0 auto;
-	margin-top: 			20px;
+	margin-top: 			50px;
 	
 }
 section.middle .employment .contain .form-div .btns .submit{
@@ -928,10 +922,10 @@ section.middle .employment .contain .form-div .btns .reset{
 }
 #keys:hover{
 	color: 						#fff;
-	-webkit-transition: 		all 800ms;
-	-moz-transition: 			all 800ms;
-	-ms-transition: 			all 800ms;
-	-o-transition: 				all 800ms;	
+	-webkit-transition: 		all 300ms;
+	-moz-transition: 			all 300ms;
+	-ms-transition: 			all 300ms;
+	-o-transition: 				all 300ms;	
 }
 
 
@@ -1094,3 +1088,5 @@ section.middle-labparts-reception .labparts-reception .contain img{
 	border-radius: 			12px;
 	
 }
+
+
