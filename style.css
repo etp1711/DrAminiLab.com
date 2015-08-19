@@ -442,11 +442,14 @@ section.middle .portion .content{
 
 section.middle .lines{
 	margin: 				0 auto;
-	min-height: 			595px;
+	min-height: 			150px;
 	width: 					auto;
 	background-image: 		url(images/medium_bg.png);
 	background-color: red;
 	opacity: 				10;
+	margin-top:				50px;
+	
+	border-bottom: 	10px red solid;
 }
 
 section.middle .lines h3{
@@ -455,21 +458,21 @@ section.middle .lines h3{
 }
 
 section.middle .lines .organ{
-	width: 				980px;
-	min-height: 		100px;
-	background-color: 	red;
-	margin: 0 auto;
+	width: 					980px;
+	min-height: 			65px;
+	margin: 				0 auto;
+
 }
 section.middle .lines .organ li{
-	float: 				left;
-	margin-left: 		10PX;
+	float: 					left;
+	margin-left: 			10px;
 }
 section.middle .lines .organ li:first-child{
 	margin-left: 			0;
 }
 section.middle .lines .organ img{
-	width: 				80px;
-	min-height: 		50px;
+	width: 					80px;
+	height: 				60px;
 }
 /*  -----------------------------------*/
 
