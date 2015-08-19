@@ -1,4 +1,4 @@
-﻿
+
 <?php include('./inc/header.php') ?>
 
 
@@ -121,6 +121,18 @@
 					<li><img src="images/organ/9.jpg"></li>
 					<li><img src="images/organ/10.jpg"></li>
 					<li><img src="images/organ/11.jpg"></li>
+				</ul>
+
+			</div>
+
+
+
+			<div class="taghdir">
+				<ul>
+					<li><img src="images/taghdir/1.jpg"></li>
+					<li><img src="images/taghdir/2.jpg"></li>
+					<li><img src="images/taghdir/3.jpg"></li>
+					
 				</ul>
 
 			</div>
