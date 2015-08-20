@@ -15,11 +15,11 @@
 				<div class="menu">
 					<ul>
 						<li><a href="index.php">صفحه اصلی</a></li>		
-						<li><a href="aboutus.php">درباره ما</a></li>
+						<li><a href="aboutus.php">درباره ما</a>
 						<li><a href="gallery.php">گالری</a></li>		
-						<li><a href="contact.php">تماس با ما</a></li>	
-						<li><a href="response.php">جوابدهی</a></li>		
+						<li><a href="response.php">جوابدهی اینترنتی</a></li>		
 						<li><a href="employment.php">استخدام</a></li>	
+						<li><a href="contact.php">تماس با ما</a></li>	
 					</ul>	
 				</div>	
 			</div>

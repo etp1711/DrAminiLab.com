@@ -82,8 +82,8 @@
 			<div class="content">
 				<div class="right-part">
 					<h5>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاهخط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاهخط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشیه</h5>
-					<li><span><a href="">سازمانهای طرف قرار داد</a></span></li>
-					<li><span>تقدیر نامه ها</span></li>
+					<li><span><a href="iframeorgans.php">سازمانهای طرف قرار داد</a></span></li>
+					<li><span><a href="iframetaghdir.php">تقدیر نامه ها</a></span></li>
 					<li><span>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه</span></li>
 					<li><span>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه</span></li>
 					<li><span>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه</span></li>			
@@ -103,44 +103,7 @@
 
 
 
-		<!--  5 LINES   -->
-		<div class="lines">
-			<h3>سازمان های طرف قرار داد</h3>
-
-
-			<div class="organ">
-				<ul>
-					<li><img src="images/organ/1.jpg"></li>
-					<li><img src="images/organ/2.jpg"></li>
-					<li><img src="images/organ/3.jpg"></li>
-					<li><img src="images/organ/4.jpg"></li>
-					<li><img src="images/organ/5.jpg"></li>
-					<li><img src="images/organ/6.jpg"></li>
-					<li><img src="images/organ/7.jpg"></li>
-					<li><img src="images/organ/8.jpg"></li>
-					<li><img src="images/organ/9.jpg"></li>
-					<li><img src="images/organ/10.jpg"></li>
-					<li><img src="images/organ/11.jpg"></li>
-				</ul>
-
-			</div>
-
-
-
-			<div class="taghdir">
-				<ul>
-					<li><img src="images/taghdir/1.jpg"></li>
-					<li><img src="images/taghdir/2.jpg"></li>
-					<li><img src="images/taghdir/3.jpg"></li>
-					
-				</ul>
-
-			</div>
-
-		</div>
-
-
-	
+			
 	</section>
 
 

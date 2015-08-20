@@ -92,9 +92,9 @@ div.content-container .head .content .menubar .menu ul li a{
 	text-decoration: 		none;
 	color:					#2F2F2F;
 	display: 				inline-block;
-	font-size: 				18px;
-	letter-spacing: 		3px;
-	font-weight: 			100;
+	font-size: 				22px;
+	letter-spacing: 		0px;
+	font-weight: 			500;
 	width: 					100%;
 	height: 				100%;
 	line-height:			80px;
@@ -458,44 +458,7 @@ section.middle .lines h3{
 
 
 
-/*   Sazman ha    */
-section.middle .lines .organ{
-	width: 					980px;
-	min-height: 			65px;
-	margin: 				0 auto;
 
-}
-section.middle .lines .organ li{
-	float: 					left;
-	margin-left: 			10px;
-}
-section.middle .lines .organ li:first-child{
-	margin-left: 			0;
-}
-section.middle .lines .organ img{
-	width: 					80px;
-	height: 				60px;
-}
-
-
-   /*  Taghdir Name ha     */
-section.middle .lines .taghdir{
-	width: 					980px;
-	min-height: 			65px;
-	margin: 				0 auto;
-
-}
-section.middle .lines .taghdir li{
-	text-align: center;
-}
-section.middle .lines .taghdir li:first-child{
-	
-}
-section.middle .lines .taghdir img{
-	width: 					150px;
-	height: 				150px;
-}
-/*  -----------------------------------*/
 
 
 /* Footer Part */
@@ -1148,3 +1111,85 @@ section.middle-labparts-reception .labparts-reception .contain img{
 }
 
 
+/*   Sazman ha    */
+section.iframe .organ{
+	width: 					980px;
+	min-height: 			650px;
+	margin: 				0 auto;
+}
+section.iframe .organ h3{
+	text-align: 			center;
+	margin-top: 			80px;
+}
+section.iframe .organ li{
+	margin-top: 			50px;
+	float: 					left;
+	margin-left: 			10px;
+	cursor: 				pointer;
+}
+section.iframe .organ li:first-child{
+	margin-left: 			0;
+}
+section.iframe .organ img{
+	width: 					80px;
+	height: 				60px;
+	-webkit-transition: 		all 600ms;
+	-moz-transition: 			all 600ms;
+	-ms-transition: 			all 600ms;
+	-o-transition: 				all 600ms;	
+}
+section.iframe .organ img:hover{
+	width: 					80px;
+	height: 				85px;
+	-webkit-transition: 		all 100ms;
+	-moz-transition: 			all 100ms;
+	-ms-transition: 			all 100ms;
+	-o-transition: 				all 100ms;	
+}
+
+   /*  Taghdir Name ha     */
+section.iframe .taghdir{
+	width: 						980px;
+	min-height: 				650px;
+	margin: 					0 auto;
+	
+}
+section.iframe .taghdir h3{
+	text-align: 				center;
+	margin-top: 				80px;
+	font-size: 					36px;
+}
+section.iframe .taghdir ul{
+	margin: 					0 auto;
+	width: 						auto;
+	min-height: 				180px;
+	
+}
+section.iframe .taghdir li{
+	margin-top: 				50px;
+	float: 						left;
+	margin-left: 				10px;
+	cursor: 					pointer;
+	text-align: 				center;
+}
+section.iframe .taghdir li:first-child{
+	margin-left: 				0;
+}
+section.iframe .taghdir img{
+	width: 						180px;
+	height: 					160px;
+	-webkit-transition: 		all 600ms;
+	-moz-transition: 			all 600ms;
+	-ms-transition: 			all 600ms;
+	-o-transition: 				all 600ms;	
+
+}
+section.iframe .taghdir img:hover{
+	width: 						340px;
+	height: 					320px;
+	-webkit-transition: 		all 100ms;
+	-moz-transition: 			all 100ms;
+	-ms-transition: 			all 100ms;
+	-o-transition: 				all 100ms;	
+}
+/*  -----------------------------------*/
