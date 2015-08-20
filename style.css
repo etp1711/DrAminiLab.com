@@ -779,7 +779,7 @@ section.middle .about{
 }
 section.middle .about .contain{
 	direction: 				rtl;
-	text-align: 			right;
+	text-align: 			justify;
 	margin: 				0 auto;
 	margin-top: 			20px;
 	width: 					900px;
@@ -788,10 +788,18 @@ section.middle .about .contain{
 	line-height: 			30px;
 }
 section.middle .about .contain p{
+	font-size: 				20px;
+	line-height: 			40px;
 	margin-left: 			10px;
 	margin-right: 			10px;
-	letter-spacing: 		1px;
+	letter-spacing: 		0px;
 }
+/*
+section.middle .about .contain .labname{
+	text-align: 			left;
+	font-size: 				24px;
+	font-style: 			bold;
+}*/
 /* -------------------------------------------*/
 
 
