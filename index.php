@@ -82,11 +82,17 @@
 			<div class="content">
 				<div class="right-part">
 					<h5>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاهخط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاهخط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشیه</h5>
-					<li><span><a href="iframeorgans.php">سازمانهای طرف قرار داد</a></span></li>
-					<li><span><a href="iframetaghdir.php">تقدیر نامه ها</a></span></li>
-					<li><span>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه</span></li>
-					<li><span>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه</span></li>
-					<li><span>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه</span></li>			
+					<li><span>چارت سازمانی</span></li>
+					<li><span>تجهیزات آزمایشگاه</span></li>	
+					<li><span><a href="iframeorgans.php">سازمان ها و موسسات طرف قرارداد</a></span></li>
+					
+					<li><span>راهنمای خدمات</span></li>	
+					<li><span>آموزش بیماران</span></li>	
+					<li><span>آزمايشهاي جديد</span></li>	
+					<li><span><a href="iframetaghdir.php">گواهینامه ها و تقدیرنامه ها</a></span></li>
+					<li><span>مقادیر بحرانی بخش ها</span></li>	
+					<li><span>سوالات متداول</span></li>	
+					<li><span>سایتهای مفید</span></li>
 				</div>
 				<div class="left-part">
 					<div class="bigtext">

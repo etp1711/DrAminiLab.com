@@ -2,7 +2,7 @@
 <section class="iframe">
 
 	<div class="organ">
-		<h3>سازمان های طرف قرار داد</h3>
+		<h3>سازمان ها و موسسات طرف قرارداد</h3>
 			<ul>
 				<li><img src="images/organ/1.jpg"></li>
 				<li><img src="images/organ/2.jpg"></li>
