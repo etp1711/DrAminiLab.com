@@ -61,14 +61,14 @@
 					<h1>راهنمای بیماران</h1>
 					<img src="images/middle.jpg">
 					<h5>مراجعین گرامی در این قسمت میتوانید از نحوه چگونگی انجام آزمایشها و شرایط لازم آزمایشها اطلاع یابید  </h5>
-					<a href="guide.php" class="more" target="blank">ادامه</a>
+					<a href="#guide.php" class="more" target="blank">ادامه</a>
 				</div>
 
 				<div class="right">
 					<h1>بخشهای آزمایشگاه</h1>
 					<img src="images/right.jpg">
 					<h5>در این بـخش به معرفـی و نمایش بخشـهای مختلف آزمایشـــــگاه می پردازیم </h5>
-					<a href="labparts.php" class="more" target="blank">ادامه</a>
+					<a href="#labparts.php" class="more" target="blank">ادامه</a>
 				</div>
 				<div class="badboy"></div>
 			</div>
