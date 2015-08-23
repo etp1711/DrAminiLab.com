@@ -80,20 +80,30 @@
 		<!-- Text Part  -->
 		<div class="text-part">
 			<div class="content">
+				
 				<div class="right-part">
-					<h5>خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاهخط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاهخط مشی آزمایشگاه خط مشی آزمایشگاه خط مشی آزمایشگاه خط مشیه</h5>
-					<li><span>چارت سازمانی</span></li>
-					<li><span>تجهیزات آزمایشگاه</span></li>	
-					<li><span><a href="iframeorgans.php">سازمان ها و موسسات طرف قرارداد</a></span></li>
-					
-					<li><span>راهنمای خدمات</span></li>	
-					<li><span>آموزش بیماران</span></li>	
-					<li><span>آزمايشهاي جديد</span></li>	
-					<li><span><a href="iframetaghdir.php">گواهینامه ها و تقدیرنامه ها</a></span></li>
-					<li><span>مقادیر بحرانی بخش ها</span></li>	
-					<li><span>سوالات متداول</span></li>	
-					<li><span>سایتهای مفید</span></li>
+					<h5></h5>
+						<li><span>چارت سازمانی</span></li>
+						<li><span>تجهیزات آزمایشگاه</span></li>	
+						<li><span><a href="iframeorgans.php">سازمان ها و موسسات طرف قرارداد</a></span></li>
+						<li><span>راهنمای خدمات</span></li>	
+						<li><span>آموزش بیماران</span></li>	
+						<li><span>آزمايشهاي جديد</span></li>	
+						<li><span><a href="iframetaghdir.php">گواهینامه ها و تقدیرنامه ها</a></span></li>
+						<li><span>مقادیر بحرانی بخش ها</span></li>	
+						<li><span>سوالات متداول</span></li>	
+						<li><span>سایتهای مفید</span></li>
 				</div>
+
+
+				<div class="test">
+					
+
+
+				</div>
+
+				
+
 				<div class="left-part">
 					<div class="bigtext">
 						<p>همگام با<br /><span class="middle">تکنــولوژی امــروز ،<span/><br /><span class="third">به پشتوانه تجربه دیروز<span/></p>
@@ -101,8 +111,15 @@
 					</div>
 					<a class="more" href=""></a>
 				</div>
+
+
+
+				
+
 			</div>
 		</div>
+
+
 		<!-- ......... -->
 		<!-- Portion -->
 

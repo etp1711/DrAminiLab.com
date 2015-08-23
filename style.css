@@ -318,6 +318,9 @@ section.middle .threebox .content .left a, section.middle .threebox .content .mi
 
 /* ----------------------*/
 
+
+
+
 /*           Text Part           */
 section.middle .text-part{
 	margin: 				0 auto;
@@ -331,13 +334,63 @@ section.middle .text-part{
 section.middle .text-part .content{
 	margin: 				0 auto;
 	width: 					940px;	
-	min-height: 			345px;
+	min-height: 			600px;
 	margin-top: 			0px;
+	background-color: 		yellow;
 }
 
+section.middle .text-part .content .right-part{
+	float: 					right;
+	width: 					200px;
+	min-height: 			430px;
+	padding: 				1px;
+	background-color: 		blue;
+}
+section.middle .text-part .content .right-part h5{
+	margin-top: 			30px;
+	margin-left: 			10px;
+	margin-right: 			15px;
+	color: 					#8C8B8B;
+}
+section.middle .text-part .content .right-part li{
+	list-style-type: 		square;
+	margin-top: 			0px;
+	margin-right: 			15px;
+	font-size: 				26px;
+	color: 					#00C1FF;
+}
+section.middle .text-part .content .right-part li span{
+	font-size: 				13px;
+	color: 					#000;
+}
+section.middle .text-part .content .right-part li span:hover{
+	color: 					#00C1FF;
+	cursor: 				auto;
+}
+
+
+
+
+
+
+section.middle .text-part .content .test{
+	float: 				right;
+	width: 				420px;
+	min-height: 		430px;
+	background-color: 	black;
+	margin-right: 		0px;
+}
+
+
+
+
+
+
 section.middle .text-part .content .left-part .bigtext{
-	min-height: 			800px;
-	margin-left: 			500px;
+	min-height: 			270px;
+	margin-right: 			650px;
+	background-color: 		red;
+	
 }
 section.middle .text-part .content .left-part .bigtext p{
 	font-size: 				77px;
@@ -385,35 +438,6 @@ section.middle .text-part .content .left-part .bigtext p span.third{
 	margin-bottom: 			0;
 	margin-top: 			0px;
 }
-section.middle .text-part .content .right-part{
-	float: 					left;
-	width: 					500px;
-	min-height: 			330px;
-	padding: 				1px;
-}
-section.middle .text-part .content .right-part h5{
-	margin-top: 			30px;
-	margin-left: 			10px;
-	margin-right: 			15px;
-	color: 					#8C8B8B;
-}
-section.middle .text-part .content .right-part li{
-	list-style-type: 		square;
-	margin-top: 			0px;
-	margin-right: 			15px;
-	font-size: 				26px;
-	color: 					#00C1FF;
-}
-section.middle .text-part .content .right-part li span{
-	font-size: 				13px;
-	color: 					#000;
-}
-section.middle .text-part .content .right-part li span:hover{
-	color: 					#00C1FF;
-	cursor: 				auto;
-}
-
-
 
 /* -------------------------------------*/
 
