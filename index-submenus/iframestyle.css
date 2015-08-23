@@ -1,0 +1,86 @@
+@font-face{
+    font-family: 'BNazanin';
+    src: url('../fonts/BNazanin.ttf');
+    src: url('../fonts/BNazanin.woff') 	format('woff'),
+         url('../fonts/BNazanin.eot') 	format('truetype');
+    font-weight: bolder;
+    font-style:  oblique;
+  
+}
+body{
+	font-family: 				"BNazanin";
+}
+/*   Sazman ha    */
+section.iframe {
+	width: 						inherit;
+	min-height: 				inherit;
+	
+}
+section.iframe h3{
+	text-align: 			center;
+
+}
+section.iframe ul{
+	list-style-type: 		none;
+}
+
+section.iframe .organ li{
+	margin-top: 			50px;
+	float: 					left;
+	margin-left: 			5px;
+	cursor: 				pointer;
+}
+section.iframe .organ li:first-child{
+	margin-left: 			0px;
+}
+section.iframe .organ img{
+	width: 					80px;
+	height: 				60px;
+	-webkit-transition: 		all 600ms;
+	-moz-transition: 			all 600ms;
+	-ms-transition: 			all 600ms;
+	-o-transition: 				all 600ms;	
+}
+section.iframe .organ img:hover{
+		
+	-webkit-transition: 		all 100ms;
+	-moz-transition: 			all 100ms;
+	-ms-transition: 			all 100ms;
+	-o-transition: 				all 100ms;	
+}
+
+   /*  Taghdir Name ha     */
+
+section.iframe .taghdir ul{
+	margin: 					0 auto;
+	width: 						auto;
+	min-height: 				180px;
+	
+}
+section.iframe .taghdir li{
+	margin-top: 				50px;
+	float: 						left;
+	margin-left: 				10px;
+	cursor: 					pointer;
+	text-align: 				center;
+}
+section.iframe .taghdir li:first-child{
+	margin-left: 				0;
+}
+section.iframe .taghdir img{
+	width: 						100px;
+	height: 					80px;
+	-webkit-transition: 		all 600ms;
+	-moz-transition: 			all 600ms;
+	-ms-transition: 			all 600ms;
+	-o-transition: 				all 600ms;	
+
+}
+section.iframe .taghdir img:hover{
+	
+	-webkit-transition: 		all 100ms;
+	-moz-transition: 			all 100ms;
+	-ms-transition: 			all 100ms;
+	-o-transition: 				all 100ms;	
+}
+/*  -----------------------------------*/

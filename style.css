@@ -336,7 +336,7 @@ section.middle .text-part .content{
 	width: 					940px;	
 	min-height: 			600px;
 	margin-top: 			0px;
-	background-color: 		yellow;
+
 }
 
 section.middle .text-part .content .right-part{
@@ -344,7 +344,7 @@ section.middle .text-part .content .right-part{
 	width: 					200px;
 	min-height: 			430px;
 	padding: 				1px;
-	background-color: 		blue;
+	
 }
 section.middle .text-part .content .right-part h5{
 	margin-top: 			30px;
@@ -375,21 +375,22 @@ section.middle .text-part .content .right-part li span:hover{
 
 section.middle .text-part .content .test{
 	float: 				right;
-	width: 				420px;
-	min-height: 		430px;
-	background-color: 	black;
-	margin-right: 		0px;
+	width: 				450px;
+	min-height: 		530px;
+	
 }
-
-
-
-
+section.middle .text-part .content .test .frame{
+	width: 				450px;
+	margin-right: 		0px;
+	min-height: 		530px;	
+	
+}
 
 
 section.middle .text-part .content .left-part .bigtext{
 	min-height: 			270px;
 	margin-right: 			650px;
-	background-color: 		red;
+	
 	
 }
 section.middle .text-part .content .left-part .bigtext p{
@@ -438,6 +439,7 @@ section.middle .text-part .content .left-part .bigtext p span.third{
 	margin-bottom: 			0;
 	margin-top: 			0px;
 }
+
 
 /* -------------------------------------*/
 
@@ -1139,89 +1141,5 @@ section.middle-labparts-reception .labparts-reception .contain img{
 	float: 					right;
 	margin-right:			100px;
 	border-radius: 			12px;
-	
 }
 
-
-/*   Sazman ha    */
-section.iframe .organ{
-	width: 					980px;
-	min-height: 			650px;
-	margin: 				0 auto;
-}
-section.iframe .organ h3{
-	text-align: 			center;
-	margin-top: 			80px;
-}
-section.iframe .organ li{
-	margin-top: 			50px;
-	float: 					left;
-	margin-left: 			10px;
-	cursor: 				pointer;
-}
-section.iframe .organ li:first-child{
-	margin-left: 			0;
-}
-section.iframe .organ img{
-	width: 					80px;
-	height: 				60px;
-	-webkit-transition: 		all 600ms;
-	-moz-transition: 			all 600ms;
-	-ms-transition: 			all 600ms;
-	-o-transition: 				all 600ms;	
-}
-section.iframe .organ img:hover{
-	width: 					80px;
-	height: 				85px;
-	-webkit-transition: 		all 100ms;
-	-moz-transition: 			all 100ms;
-	-ms-transition: 			all 100ms;
-	-o-transition: 				all 100ms;	
-}
-
-   /*  Taghdir Name ha     */
-section.iframe .taghdir{
-	width: 						980px;
-	min-height: 				650px;
-	margin: 					0 auto;
-	
-}
-section.iframe .taghdir h3{
-	text-align: 				center;
-	margin-top: 				80px;
-	font-size: 					36px;
-}
-section.iframe .taghdir ul{
-	margin: 					0 auto;
-	width: 						auto;
-	min-height: 				180px;
-	
-}
-section.iframe .taghdir li{
-	margin-top: 				50px;
-	float: 						left;
-	margin-left: 				10px;
-	cursor: 					pointer;
-	text-align: 				center;
-}
-section.iframe .taghdir li:first-child{
-	margin-left: 				0;
-}
-section.iframe .taghdir img{
-	width: 						180px;
-	height: 					160px;
-	-webkit-transition: 		all 600ms;
-	-moz-transition: 			all 600ms;
-	-ms-transition: 			all 600ms;
-	-o-transition: 				all 600ms;	
-
-}
-section.iframe .taghdir img:hover{
-	width: 						340px;
-	height: 					320px;
-	-webkit-transition: 		all 100ms;
-	-moz-transition: 			all 100ms;
-	-ms-transition: 			all 100ms;
-	-o-transition: 				all 100ms;	
-}
-/*  -----------------------------------*/
