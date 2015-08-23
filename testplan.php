@@ -65,10 +65,10 @@
 
 				<div class="daily week">
 					<div class="subjct">
-						<h1>تست های با زمان جوابدهی یک هفته<span></span></h1>
+						<h1><span>تست های با زمان جوابدهی حداکثر 72 ساعت</span></h1>
 					</div>	
 					<table>
-						<tr><td>Insulin</td><td>C Peptide</td><td>ACTH</td><td>Free Testosterone</td><td>Androstenedione</td><td>AMH</td></tr>
+						<tr><td>Pro BNP</td><td>IGFBP3</td><td>IGF1</td><td>ACTH</td><td>ANCA</td><td>C Peptide</td><td>Inhibin A</td><td>HE4</td><td>DHT</td><td>AMH</td></tr>
 					</table>	
 				</div>
 
