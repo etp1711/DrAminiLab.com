@@ -77,7 +77,7 @@
 
 
 		<!-- Text Part  -->
-		<div class="text-part">
+		<div class="iframe-part">
 			<div class="content">
 				
 				<div class="right-part">
@@ -85,36 +85,36 @@
 						<li><span><a href="index-submenus/iframe-organs.php" target="ilink">سازمان ها و موسسات طرف قرارداد</a></span></li>	
 						<li><span><a href="index-submenus/iframe-taghdir.php" target="ilink">گواهینامه ها و تقدیرنامه ها</a></span></li>
 						<li><span>چارت سازمانی</span></li>
-						<li><span>تجهیزات آزمایشگاه</span></li>	
-						<li><span>راهنمای خدمات</span></li>	
 						<li><span>آموزش بیماران</span></li>	
 						<li><span><a href="index-submenus/iframe-taghdir.php" target="ilink">آزمايشهاي جديد</a></span></li>
 						<li><span>مقادیر بحرانی بخش ها</span></li>	
 						<li><span>سوالات متداول</span></li>	
-						<li><span><a href="index-submenus/iframe-taghdir.php" target="ilink">سایتهای مفید</a></span> 
+						<li><span><a href="index-submenus/iframe-sites.php" target="ilink">سایتهای مرتبط</a></span> 
 				</div>
 
 
-				<div class="test">
+				<div class="left-part">
 					<iframe class="frame" src="index-submenus/iframe-organs.php" name="ilink" scrolling="no"></iframe>
 				</div>
 
 
 
-				<div class="left-part">
-					<div class="bigtext">
-						<p>همگام با<br /><span class="middle">تکنــولوژی امــروز ،<span/><br /><span class="third">به پشتوانه تجربه دیروز<span/></p>
-						<br /><a href="">ادامه</a>
-					</div>
-					<a class="more" href=""></a>
-				</div>
-
-
-
-				
-
 			</div>
 		</div>
+
+
+
+		<div class="news-text">
+			<div class="bigtext">
+				<p>همگام با<br /><span class="middle">تکنــولوژی امــروز ،<span/><br /><span class="third">به پشتوانه تجربه دیروز ...<span/></p>
+				<!--   <br /><a href="">ادامه</a>  -->
+			</div>
+				<a class="more" href=""></a>
+		</div>											
+
+
+
+		
 
 
 		<!-- ......... -->

@@ -16,16 +16,16 @@
 			<div class="contain">
 				<div class="daily">
 					<div class="subjct">
-						<h1>روزانه<span>(ساعت شروع : 13)</span></h1>
+						<h1>روزانه<span>(ساعت شروع : 14)</span></h1>
 					</div>	
 					<table>
-						<tr><td>T3</td><td>BHCG</td><td>PSA</td><td>GGT</td><td>C3</td><td>Na</td></tr>
-						<tr><td>T4</td><td>FSH</td><td>AFP</td><td>CPK</td><td>C4</td><td>K</td></tr>
-						<tr><td>TSH</td><td>LH</td><td>CEA</td><td>CK-MB</td><td>igG</td><td>Li</td></tr>
-						<tr><td>T3 Uptake</td><td>Prolactin</td><td>CA 15-3</td><td>LDH</td><td>igA</td><td>Mg</td></tr>
-						<tr><td>Free T4</td><td>Testosterone</td><td>CA 19-9</td><td>Hs CRP</td><td>igM</td><td>Amylase</td></tr>
-						<tr><td>Ferritin</td><td>HLA Typing</td><td>CA 125</td><td>Hb A1C</td><td>ACE</td><td>Aldolase</td></tr>
-						<tr><td>D dimer</td><td>Stone Analysis</td><td>Cold Agglutinin</td><td>Micro Albumin</td><td>Lipase</td><td>LE Cell</td></tr>
+						<tr><td>Na</td><td>C3</td><td>GGT</td><td>HBs Ag</td><td>PSA</td><td>FSH</td><td>T3</td></tr>
+						<tr><td>K</td><td>C4</td><td>CPK</td><td>HBs Ab</td><td>Free PSA</td><td>LH</td><td>T4</td></tr>
+						<tr><td>Li</td><td>igG</td><td>CK-MB</td><td>HCV-Ab</td><td>AFB</td><td>Prolactin</td><td>TSH</td></tr>
+						<tr><td>Mg</td><td>IgA</td><td>LDH</td><td>HIV Ab</td><td>CEA</td><td>Testosterone</td><td>T Uptake</td></tr>
+						<tr><td>Copper</td><td>IgM</td><td>Hs CRP</td><td>HTLV 1&2</td><td>CA 15-3</td><td>DHEA</td><td>Anti TPO</td></tr>
+						<tr><td>Zinc</td><td>Amylase</td><td>Hb A1C</td><td>Ferritin</td><td>CA 19-9</td><td>Estradiol</td><td>Free (T3 & T4)</td></tr>
+						<tr><td>Troponin I</td><td>Lipase</td><td>Micro Albumin</td><td>Vitamin D</td><td>CA 125</td><td>Progestrone</td><td>BHCG</td></tr>
 					</table>	
 				</div>
 				<br /><br />
@@ -33,13 +33,14 @@
 
 				<div class="daily monday">
 					<div class="subjct">
-						<h1>روزهای زوج<span>(ساعت شروع : 13)</span></h1>
+						<h1>روزهای زوج<span></span></h1>
 					</div>	
 					<table>
-						<tr><td>DEHA</td><td>Cortisol</td><td>PTH</td><td>ANA</td><td>Anti TPO</td><td>Troponin I</td></tr>
-						<tr><td>Estradiol</td><td>Free T3</td><td>Folic Acid</td><td>Anti DNA</td><td>C ANCA&P ANCA</td><td>Hb Elect.</td></tr>
-						<tr><td>Progesterone</td><td>Free PSA</td><td>Vitamin D</td><td>Anti CCP</td><td>Cardiolipin (G,M)</td><td>Protein Elect.</td></tr>
-						<tr><td>170H Progesterone</td><td>H.Pylori (G,A,M)</td><td>Vitamin B12</td><td>Anti TTG</td><td>Phospholipid (G,M)</td><td>H.Pylori Ag Stool</td></tr>
+						<tr class="header"><td colspan="2">ساعت شروع : 14</td>					<td colspan="2">ساعت شروع : 10</td></tr>
+							<tr><td>H.Pylori (G,A,M)</td><td>Folic Acid</td>					<td>Androstenedione</td><td>GH</td></tr>
+							<tr><td>H.Pylori Ag Stool</td><td>Vitamin B12</td>					<td>Beta-2 Microglobulin</td><td>PTH</td></tr>
+							<tr><td>Free Testosterone</td><td>17-OH Progesterone</td>			<td>Hb & Protein Electrophoresis</td><td>Insulin</td></tr>
+							
 					</table>	
 				</div>
 
@@ -50,12 +51,13 @@
 
 				<div class="daily sunday">
 					<div class="subjct">
-						<h1>روزهای فرد<span>(ساعت شروع : 13)</span></h1>
+						<h1>روزهای فرد<span></span></h1>
 					</div>	
 					<table>
-						<tr><td>Toxoplasma (G,M)</td><td>HSV (G,M)</td><td>HIV</td><td>HCV Ab</td><td>HBe Ag</td><td>HAV Ab</td></tr>
-						<tr><td>Rubella (G,M)</td><td>HBs Ag</td><td>HIV P24</td><td>HBc Ab</td><td>HBe Ab</td><td>HAV IgM</td></tr>
-						<tr><td>CMV (G,M)</td><td>HBs Ab</td><td>HTLV 1&2</td><td>HBc IgM</td><td>Digoxin</td><td>Ig E</td></tr>
+						<tr class="header"><td colspan="3">ساعت شروع : 14</td>									<td colspan="3">ساعت شروع : 10</td></tr>
+							<tr><td>Anti TTG (G,M)</td><td>ANA<br /> ANA profile</td><td>Cortisol</td>			<td>HBe (Ag & Ab)</td><td>IgE</td><td>Toxoplasma (G,M)</td></tr>
+							<tr><td>Cardiolipin (G,M)</td><td>Anti DNA</td><td>Digoxin</td>						<td>HBc (Total & IgM)</td><td>HIV p24</td><td>Rubella (G,M)</td></tr>
+							<tr><td>Phospholipid (G,M)</td><td>Anti CCP</td><td>c-ANCA & p-ANCA</td>			<td>HAV (Total & IgM)</td><td>HSV (G,M)</td><td>CMV (G,M)</td></tr> 
 					</table>	
 				</div>
 

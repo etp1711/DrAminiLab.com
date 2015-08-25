@@ -321,8 +321,14 @@ section.middle .threebox .content .left a, section.middle .threebox .content .mi
 
 
 
-/*           Text Part           */
-section.middle .text-part{
+
+
+
+
+
+
+/*          Iframe Submenus           */
+section.middle .iframe-part{
 	margin: 				0 auto;
 	min-height: 			345px;
 	width: 					auto;
@@ -330,70 +336,81 @@ section.middle .text-part{
 	opacity: 				10;
 	text-align: 			right;
 	direction: 				rtl;
+	padding-bottom: 				10px;
 }
-section.middle .text-part .content{
+section.middle .iframe-part .content{
 	margin: 				0 auto;
 	width: 					940px;	
-	min-height: 			600px;
-	margin-top: 			0px;
-
-}
-
-section.middle .text-part .content .right-part{
-	float: 					right;
-	width: 					200px;
-	min-height: 			430px;
-	padding: 				1px;
+	min-height: 			400px;
+	margin-top: 			35px;
 	
 }
-section.middle .text-part .content .right-part h5{
+
+section.middle .iframe-part .content .right-part{
+	float: 					right;
+	width: 					200px;
+	min-height: 			330px;
+	margin-top: 			30px;
+		
+}
+section.middle .iframe-part .content .right-part h5{
 	margin-top: 			30px;
 	margin-left: 			10px;
 	margin-right: 			15px;
 	color: 					#8C8B8B;
 }
-section.middle .text-part .content .right-part li{
+section.middle .iframe-part .content .right-part li{
 	list-style-type: 		square;
 	margin-top: 			0px;
 	margin-right: 			15px;
 	font-size: 				26px;
 	color: 					#00C1FF;
 }
-section.middle .text-part .content .right-part li span{
+section.middle .iframe-part .content .right-part li span{
 	font-size: 				13px;
 	color: 					#000;
 }
-section.middle .text-part .content .right-part li span:hover{
+section.middle .iframe-part .content .right-part li span:hover{
 	color: 					#00C1FF;
 	cursor: 				auto;
 }
 
-
-
-
-
-
-section.middle .text-part .content .test{
-	float: 				right;
-	width: 				450px;
-	min-height: 		530px;
+/*   Left Part    */
+section.middle .iframe-part .content .left-part{
+	margin-right: 		310px;
+	width: 				630px;
+	min-height: 		330px;
+	margin-top: 		30px;
 	
 }
-section.middle .text-part .content .test .frame{
-	width: 				450px;
+section.middle .iframe-part .content .left-part .frame{
+	margin-top: 		30px;
+	width: 				630px;
 	margin-right: 		0px;
-	min-height: 		530px;	
+	min-height: 		330px;
 	
 }
 
 
-section.middle .text-part .content .left-part .bigtext{
-	min-height: 			270px;
-	margin-right: 			650px;
-	
-	
+/*   News  &   Big Text   */
+section.middle .news-text{
+	margin: 				0 auto;
+	width: 					940px;	
+	min-height: 			300px;
+	margin-top: 			35px;
+	/*background-color: 		red;*/
 }
-section.middle .text-part .content .left-part .bigtext p{
+section.middle .news-text .bigtext{
+	float: 					right;
+	min-height: 			300px;
+	width: 					330px;
+	text-align: 			right;
+	margin-right: 			0px;
+	direction: 				rtl;
+	/*background-color: 		black;*/
+}
+
+section.middle .news-text .bigtext p{
 	font-size: 				77px;
 	font-weight: 			bold;
 	color: 					#3E3D3C;
@@ -401,7 +418,9 @@ section.middle .text-part .content .left-part .bigtext p{
 	margin-bottom: 			0;
 	font-family: 			'Ubuntu';
 }
-section.middle .text-part .content .left-part .bigtext a{
+/*
+section.middle .news-text .bigtext a{
+	margin-right: 			120px;
 	text-decoration: 		none;
 	padding: 				10px 23px;
 	border-radius: 			6px;
@@ -415,7 +434,7 @@ section.middle .text-part .content .left-part .bigtext a{
   	-o-transition: 			all 100ms;
   	-ms-transition: 		all 100ms;
 }
-section.middle .text-part .content .left-part .bigtext a:hover{
+section.middle .news-text .bigtext a:hover{
 	color: 					#ffffff;
 	padding: 				10px 23px;
 	background:	            -webkit-linear-gradient( -90deg, rgba(55, 223, 253, 1), rgba(1, 171, 215, 1) );
@@ -426,22 +445,27 @@ section.middle .text-part .content .left-part .bigtext a:hover{
   	-moz-transition: 		all 100ms;
   	-o-transition: 			all 100ms;
   	-ms-transition: 		all 100ms;
-}
-section.middle .text-part .content .left-part .bigtext p span.middle{
+}*/ 
+section.middle .news-text .bigtext p span.middle{
 	color: 					#00C5FE;
 	font-size: 				37px;
 	margin-top: 			0;
 	margin-bottom: 			0px;
 }
-section.middle .text-part .content .left-part .bigtext p span.third{
+section.middle .news-text .bigtext p span.third{
 	color: 					#767472;
 	font-size: 				37px;
 	margin-bottom: 			0;
-	margin-top: 			0px;
+	margin-top: 			20px;
 }
 
 
 /* -------------------------------------*/
+
+
+
+
+
 
 
 
@@ -487,12 +511,19 @@ section.middle .lines h3{
 
 
 
+
+
+
+
+
+
+
 /* Footer Part */
 
 footer.foot {
 	margin: 				0 auto;
 	width: 					auto;
-	min-height: 			50px;
+	min-height: 			00px;
 	padding: 				1px;
 	background-image: 		url(images/bg_body.png);
 	opacity: 				10;
@@ -504,14 +535,30 @@ footer.foot .content{
 }
 footer.foot .content .privacy{
 	margin:       			0 auto;
-	margin-top: 			20px;
 	width: 					350px;
 	text-align: 			center;
-	font-size: 				17px;
+	font-size: 				15px;
 	font-family: 			sans-serif;
 }
 
 /* ................................*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -553,14 +600,25 @@ section.middle .about .contain .daily table{
 	color: 					black;
 	font-weight: 			bold;
 }
-section.middle .about .contain .daily table tr{
-	
+
+
+section.middle .about .contain .daily table .header{
+	height: 				50px;
 }
 section.middle .about .contain .daily table td{
 	width: 					150px;
+
 	border: 				2px outset #aaa;
 	vertical-align: 		middle;
 }
+section.middle .about .contain .monday table td,section.middle .about .contain .sunday table td{
+	height: 				50px;
+}
+
+
+
+
+
 
 
 
@@ -1116,6 +1174,10 @@ section.middle .labparts .contain a:hover{
 	-ms-transition: 			all 600ms;
 	-o-transition: 				all 600ms;	
 }
+
+
+
+
 
 
 
