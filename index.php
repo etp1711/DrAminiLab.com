@@ -64,9 +64,9 @@
 				</div>
 
 				<div class="right">
-					<h1>بخشهای آزمایشگاه</h1>
+					<h1>آزمایشهای جدید</h1>
 					<img src="images/right.jpg">
-					<h5>در این بـخش به معرفـی و نمایش بخشـهای مختلف آزمایشـــــگاه می پردازیم </h5>
+					<h5>در این بـخش به معرفـی و نمایش آزمایشهای جدید آزمایشـــــگاه می پردازیم </h5>
 					<a href="#labparts.php" class="more" target="blank">ادامه</a>
 				</div>
 				<div class="badboy"></div>
@@ -85,8 +85,6 @@
 						<li><span><a href="index-submenus/iframe-organs.php" target="ilink">سازمان ها و موسسات طرف قرارداد</a></span></li>	
 						<li><span><a href="index-submenus/iframe-taghdir.php" target="ilink">گواهینامه ها و تقدیرنامه ها</a></span></li>
 						<li><span>چارت سازمانی</span></li>
-						<li><span>آموزش بیماران</span></li>	
-						<li><span><a href="index-submenus/iframe-taghdir.php" target="ilink">آزمايشهاي جديد</a></span></li>
 						<li><span>مقادیر بحرانی بخش ها</span></li>	
 						<li><span>سوالات متداول</span></li>	
 						<li><span><a href="index-submenus/iframe-sites.php" target="ilink">سایتهای مرتبط</a></span> 
