@@ -906,16 +906,22 @@ section.middle .about .contain .labname{
 /*  Response  */
 
 section.middle .response{
-	min-height: 			1500px;
+	min-height: 			500px;
 	margin: 				0 auto;
+	background-color:		white;
+	width: 					900px;
+	border-radius: 			20px;
+	margin-bottom: 			80px;
+	padding:		 		1px;
+	box-shadow: 			5px 25px 25px 10px;
+	margin-top: 			20px;
 
 }
 section.middle .response iframe{
 	margin: 				0 auto;
-	width: 					940px;
+	width: 					890px;
 	min-height: 			500px;
 	margin-top: 			100px;
-	margin-left: 			200px;
 
 		
 }
