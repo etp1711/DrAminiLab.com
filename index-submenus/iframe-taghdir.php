@@ -17,14 +17,13 @@
 					<li><a href="../images/taghdir/1.jpg" target="blank"><img src="../images/taghdir/1.jpg"></a></li>
 					<li><a href="../images/taghdir/2.jpg" target="blank"><img src="../images/taghdir/2.jpg"></a></li>
 					<li><a href="../images/taghdir/3.jpg" target="blank"><img src="../images/taghdir/3.jpg"></a></li>
-<!--				<li><img src="images/taghdir/4.jpg"></li>
-					<li><img src="images/taghdir/5.jpg"></li>
-					<li><img src="images/taghdir/6.jpg"></li>
-					<li><img src="images/taghdir/7.jpg"></li>
-					<li><img src="images/taghdir/8.jpg"></li>
-					<li><img src="images/taghdir/9.jpg"></li>
-					<li><img src="images/taghdir/10.jpg"></li>
-					<li><img src="images/taghdir/11.jpg"></li>    -->
+					<li><a href="../images/taghdir/4.jpg" target="blank"><img src="../images/taghdir/4.jpg"></a></li>
+					<li><a href="../images/taghdir/5.jpg" target="blank"><img src="../images/taghdir/5.jpg"></a></li>
+					<li><a href="../images/taghdir/6.jpg" target="blank"><img src="../images/taghdir/6.jpg"></a></li>
+					<li><a href="../images/taghdir/7.jpg" target="blank"><img src="../images/taghdir/7.jpg"></a></li>
+					<li><a href="../images/taghdir/8.jpg" target="blank"><img src="../images/taghdir/8.jpg"></a></li>
+					
+
 				</ul>
 		</div>
 	</section>

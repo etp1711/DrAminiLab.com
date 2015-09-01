@@ -1,9 +1,11 @@
 ﻿
 <?php include('./inc/header.php') ?>
 
-	<section class="middle">
+	<section class="bigresponse">
 		<div class="response">
-			<iframe src="http://www.sabapouyan.com/RespLogin.aspx?mid=11" />
+
+
+			<iframe src="http://www.sabapouyan.com/RespLogin.aspx?mid=11" allowtransparency="true" scrolling="no"  />
 
 			</iframe>
 		</div>
