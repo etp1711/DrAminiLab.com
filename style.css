@@ -1226,3 +1226,27 @@ section.middle-labparts-reception .labparts-reception .contain img{
 	border-radius: 			12px;
 }
 
+
+
+section.middle .newtest{
+	background-color:		transparent;
+	width: 					1100px;
+	min-height: 			1100px;
+	margin: 				0 auto;
+	border-radius: 			20px;
+	margin-bottom: 			80px;
+	padding:		 		1px;
+	box-shadow: 			5px 25px 25px 10px;
+	margin-top: 			20px;
+	
+	text-align: 			left;
+	font-family: 			arial;
+	direction: 				ltr;
+}
+
+section.middle .newtest p{
+	color:					blue;	
+	margin-left: 			20px;
+	margin-top: 			30px;		
+
+}

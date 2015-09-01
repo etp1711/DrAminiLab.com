@@ -67,7 +67,7 @@
 					<h1>آزمایشهای جدید</h1>
 					<img src="images/right.jpg">
 					<h5>در این بـخش به معرفـی و نمایش آزمایشهای جدید آزمایشـــــگاه می پردازیم </h5>
-					<a href="#labparts.php" class="more" target="blank">ادامه</a>
+					<a href="newtest.php" class="more" target="blank">ادامه</a>
 				</div>
 				<div class="badboy"></div>
 			</div>
