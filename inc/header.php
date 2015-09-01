@@ -27,9 +27,9 @@
 					<ul>
 						<li><a href="index.php">صفحه اصلی</a></li>		
 						<li><a href="aboutus.php">درباره ما</a>
-						<li><a href="#">گالری</a></li>		
-						<li><a href="response.php">جوابدهی آنلاین</a></li>		
-						<li><a href="#">استخدام</a></li>	
+						<li><a href="#">چارت سازمانی</a></li>	
+						<li><a href="response.php">جوابدهی آنلاین</a></li>
+						<li><a href="#">گالری</a></li>			
 						<li><a href="contact.php">تماس با ما</a></li>	
 					</ul>	
 				</div>	

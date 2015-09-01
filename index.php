@@ -84,7 +84,6 @@
 					<h5></h5>
 						<li><span><a href="index-submenus/iframe-organs.php" target="ilink">سازمان ها و موسسات طرف قرارداد</a></span></li>	
 						<li><span><a href="index-submenus/iframe-taghdir.php" target="ilink">گواهینامه ها و تقدیرنامه ها</a></span></li>
-						<li><span>چارت سازمانی</span></li>
 						<li><span>مقادیر بحرانی بخش ها</span></li>	
 						<li><span>سوالات متداول</span></li>	
 						<li><span><a href="index-submenus/iframe-sites.php" target="ilink">سایتهای مرتبط</a></span> 
