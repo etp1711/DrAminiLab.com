@@ -915,7 +915,7 @@ section.middle .about .contain .labname{
 
 /*  Response  */
 
-section.bigresponse .response{
+/*section.bigresponse .response{
 	min-height: 			600px;
 	margin: 				0 auto;
 	width: 					900px;
@@ -935,8 +935,26 @@ section.bigresponse .response iframe{
 	margin-height: 			100px;
 	margin-width:			200px;
 	margin-top: 			80px;
+}
+	*/
+section.bigresponse .response{
+	min-height: 			900px;
+	margin: 				0 auto;
+	width: 					900px;
+	border-radius: 			20px;
+	margin-bottom: 			80px;
+	padding:		 		1px;
+	margin-top: 			20px;
+	text-align: 			center;
 	
-	
+}
+section.bigresponse .response iframe{
+	margin: 				0 auto;
+	width: 					900px;
+	height: 				900px; 
+	margin-height: 			100px;
+	margin-width:			200px;
+	margin-top: 			80px;
 }
 
 
