@@ -15,7 +15,7 @@
 			<h3>گواهینامه ها و تقدیرنامه ها</h3>
 				<ul>
 					<li><a href="../images/taghdir/1.jpg" target="blank"><img src="../images/taghdir/1.jpg"></a></li>
-					<li><a href="../images/taghdir/2.jpg" target="blank"><img src="../images/taghdir/2.jpg"></a></li>
+					
 					<li><a href="../images/taghdir/3.jpg" target="blank"><img src="../images/taghdir/3.jpg"></a></li>
 					<li><a href="../images/taghdir/4.jpg" target="blank"><img src="../images/taghdir/4.jpg"></a></li>
 					<li><a href="../images/taghdir/5.jpg" target="blank"><img src="../images/taghdir/5.jpg"></a></li>

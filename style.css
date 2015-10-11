@@ -278,13 +278,13 @@ section.middle .threebox .content .middle{
 	margin-left: 			20px;
 }
 
-section.middle .threebox .content .left h1, section.middle .threebox .content .middle h1, section.middle .threebox .content .right h1{
+section.middle .threebox .content .left h1, section.middle .threebox .content .middle .forth h1, section.middle .threebox .content .right h1{
 	margin-top: 			15px;
 	margin-bottom: 			0px;
 	color: 					#3E3D3C;
 	font-size: 				23px;
 }
-section.middle .threebox .content .left img, section.middle .threebox .content .middle img, section.middle .threebox .content .right img{
+section.middle .threebox .content .left img, section.middle .threebox .content .right img{
 	width: 					240px;
 	min-height: 			145px;
 	margin-top: 			15px;
@@ -312,7 +312,8 @@ section.middle .threebox .content .left a, section.middle .threebox .content .mi
   	-moz-transition: 		all 100ms;
   	-o-transition: 			all 100ms;
   	-ms-transition: 		all 100ms;
-}section.middle .threebox .content .left a:hover, section.middle .threebox .content .middle a:hover, section.middle .threebox .content .right a:hover{
+}
+section.middle .threebox .content .left a:hover, section.middle .threebox .content .middle a:hover, section.middle .threebox .content .right a:hover{
 	color: 					#ffffff;
 	padding: 				10px 23px;
 	background:	            -webkit-linear-gradient( -90deg, rgba(55, 223, 253, 1), rgba(1, 171, 215, 1) );
@@ -326,7 +327,117 @@ section.middle .threebox .content .left a, section.middle .threebox .content .mi
   	border: 1px solid rgb(255,255,255);
 }
 
+
+
+
+
+
+
+
+
+
+
+section.middle .threebox .content .middle .forth{
+	min-height: 				420px;
+	width: 						300px;
+	outline: 					0px solid red;
+	padding: 					1px;
+
+}
+section.middle .threebox .content .middle .forth .footslide{
+	min-height: 				420px;
+	width: 						300px;
+	margin     : 				auto 0;
+	overflow   : 				hidden;
+	position   : 				relative;
+	color: 						red;
+}
+section.middle .threebox .content .middle .forth .footslide div.trainfoot{
+	width    : 					1000px;
+	height   : 					inherit;
+	position : 					absolute;
+	left     : 					0;
+	top      :					0;
+	-webkit-transition : 		left 800ms ease-in-out;
+}
+
+section.middle .threebox .content .middle .forth .footslide div.trainfoot > div{
+	width  : 					280px;
+	min-height: 				250px;
+	float  : 					left;
+	margin-top: 				15px;
+	text-align: 				right;
+	margin-bottom: 				0;
+
+
+	
+}
+
+
+/* ----------------Navigation------------------------------ */
+
+section.middle .threebox .content .middle .forth .footslide ul.btnsfoot{
+	height     : 				13px;
+	list-style : 				none;
+	position   : 				absolute;
+	left       : 				0;
+	bottom     : 				0;
+	opacity    : 				0;
+}
+section.middle .threebox .content .middlesection.middle .threebox .content .middle .forth .footslide ul.btnsfoot li{
+	display: 					none;
+	float  : 					left;
+	width  : 					30px;
+	height : 					10px;
+	cursor : 					pointer;
+	margin-right       	: 		5px;
+	border-radius      	: 		2px;
+	background-color   	: 		#333;
+	-webkit-transition 	: 		all 1100ms;
+}
+section.middle .threebox .content .middle .forth .footslide ul.btnsfoot li:hover,
+section.middle .threebox .content .middle .forth .footslide ul.btnsfoot li.active{
+	height           : 			16px;
+	margin-top       : 			-3px;
+	background-color : 			#2677AD;
+	-webkit-transition-duration : 200ms;
+}
+
+section.middle .threebox .content .middle .forth .footslide div.prv,
+section.middle .threebox .content .middle .forth .footslide div.next{
+	position : 					absolute;
+	top      : 					5px;
+	left: 	   					0px;
+	width    : 					30px;
+	height   : 					30px;
+	opacity  : 					1;
+	cursor   : 					pointer;
+	background-image   : 		url('images/arrowfoot.png');
+	background-repeat  : 		no-repeat;
+	
+}
+section.middle .threebox .content .middle .forth .footslide div.prv{
+	background-position : 		0px 0px;
+	left:  : 					10px;
+}
+section.middle .threebox .content .middle .forth .footslide div.next{
+	left:   					35px;
+	background-position : 		-31px 0px;
+	
+}
 /* ----------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -358,7 +469,7 @@ section.middle .iframe-part .content{
 
 section.middle .iframe-part .content .right-part{
 	float: 					right;
-	width: 					200px;
+	width: 					250px;
 	min-height: 			330px;
 	margin-top: 			30px;
 		
@@ -370,14 +481,14 @@ section.middle .iframe-part .content .right-part h5{
 	color: 					#8C8B8B;
 }
 section.middle .iframe-part .content .right-part li{
-	list-style-type: 		square;
+	list-style-type: 		circle;
 	margin-top: 			0px;
 	margin-right: 			15px;
 	font-size: 				26px;
 	color: 					#00C1FF;
 }
 section.middle .iframe-part .content .right-part li span{
-	font-size: 				13px;
+	font-size: 				17px;
 	color: 					#000;
 }
 section.middle .iframe-part .content .right-part li span:hover{
@@ -578,15 +689,29 @@ footer.foot .content .privacy{
 
 
 /* ..........  Test Plan  .............*/
+section.middle .pdfdown{
+	width: 			170px;
+	min-width: 		150px;
+	margin-left: 	1060px;
+	margin-top: 	30px;
+	margin-bottom: 	30px;
+}
 
+section.middle span{
+	text-align: 			center;
+}
 
+section.middle .pdflogo{
+	width: 			30px;
+	height: 		30px;
+	text-align: 	center;
+}
 section.middle .about .contain .daily{
 	margin: 				0 auto;
 	background-color: 		white;
 	width: 					900px;
 	min-height: 			150px;
 	text-align: 			right;
-
 }
 section.middle .about .contain .daily .subjct{
 	width: 					inherit;
@@ -610,8 +735,6 @@ section.middle .about .contain .daily table{
 	color: 					black;
 	font-weight: 			bold;
 }
-
-
 section.middle .about .contain .daily table .header{
 	height: 				50px;
 }
@@ -625,7 +748,9 @@ section.middle .about .contain .monday table td,section.middle .about .contain .
 	height: 				50px;
 }
 
-
+section.middle .about .contain p{
+	text-align: 			center;
+}
 
 
 
@@ -789,7 +914,7 @@ section.contain .container{
 }
 section.contain .container h2{
 	font-size: 					20px;
-	text-align: 				right;
+	text-align: 				center;
 	margin-bottom: 				50px;
 }
 section.contain .container .map{
@@ -983,6 +1108,10 @@ section.middle .employment .contain{
 	margin-top: 			10px;
 	width: 					900px;
 	min-height: 			870px;
+}
+section.middle .employment .contain h2{
+	text-align: 			center;
+	font-size: 				21px;
 }
 section.middle .employment .contain .form-div{
 	margin: 				0 auto;

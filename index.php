@@ -56,18 +56,67 @@
 					<a href="testplan.php" class="more" target="blank" >ادامه</a>
 				</div>
 
-				<div class="middle">
-					<h1>راهنمای بیماران</h1>
-					<img src="images/middle.jpg">
-					<h5>مراجعین گرامی در این قسمت میتوانید از نحوه چگونگی انجام آزمایشها و شرایط لازم آزمایشها اطلاع یابید  </h5>
-					<a href="#guide.php" class="more" target="blank">ادامه</a>
+
+
+
+
+
+
+
+
+
+
+			<div class="middle">
+
+
+				<div class="forth">
+
+					<div class="footslide"><h1>خبرهاي آزمايشگاه</h1>
+						<div class="trainfoot">
+							<script type="text/javascript">
+								var slidesLen = 1;
+								for(var i=1;i<=slidesLen;i++){
+									document.write("<div><p><br />نمونه متن شماره 1111</p></div>");
+								}
+								var slidesLen = 1;
+								for(var i=1;i<=slidesLen;i++){
+									document.write("<div><p><br />نمونه متن شماره 2222</p></div>");
+								}
+								var slidesLen = 1;
+								for(var i=1;i<=slidesLen;i++){
+									document.write("<div><p><br />نمونه متن شماره 3333</p></div>");
+								}
+								
+					
+							</script>
+						</div>
+							<div class="next"></div>
+							<div class="prv"></div>
+								<ul class="btnsfoot">
+									<script type="text/javascript">
+										for(i=0;i<slidesLen;i++){
+											document.write("<li></li>");
+										}
+									</script>
+								</ul>
+					</div>
 				</div>
+			</div>
+
+
+
+
+
+
+
+
+
 
 				<div class="right">
-					<h1>آزمایشهای جدید</h1>
+					<h1>راهنمای بیماران</h1>
 					<img src="images/right.jpg">
-					<h5>در این بـخش به معرفـی و نمایش آزمایشهای جدید آزمایشـــــگاه می پردازیم </h5>
-					<a href="newtest.php" class="more" target="blank">ادامه</a>
+					<h5>مراجعین گرامی در این قسمت میتوانید از نحوه چگونگی انجام آزمایشها و شرایط لازم آزمایشها اطلاع یابید  </h5>
+					<a href="#guide.php" class="more" target="blank">ادامه</a>
 				</div>
 				<div class="badboy"></div>
 			</div>
@@ -84,9 +133,9 @@
 					<h5></h5>
 						<li><span><a href="index-submenus/iframe-organs.php" target="ilink">سازمان ها و موسسات طرف قرارداد</a></span></li>	
 						<li><span><a href="index-submenus/iframe-taghdir.php" target="ilink">گواهینامه ها و تقدیرنامه ها</a></span></li>
-						<li><span>مقادیر بحرانی بخش ها</span></li>	
-						<li><span>سوالات متداول</span></li>	
+						<li><span><a href="index-submenus/iframe-newtests.php" target="ilink">آزمايشهاي جديد</a></span></li>
 						<li><span><a href="index-submenus/iframe-sites.php" target="ilink">سایتهای مرتبط</a></span> 
+						<li><span>سوالات متداول</span></li>	
 				</div>
 
 
@@ -101,14 +150,18 @@
 
 
 
+
+		<!-- 
 		<div class="news-text">
 			<div class="bigtext">
 				<p>همگام با<br /><span class="middle">تکنــولوژی امــروز ،<span/><br /><span class="third">به پشتوانه تجربه دیروز ...<span/></p>
-				<!--   <br /><a href="">ادامه</a>  -->
+				 <br /><a href="">ادامه</a> 
 			</div>
 				<a class="more" href=""></a>
 		</div>											
 
+
+		-->
 
 
 		

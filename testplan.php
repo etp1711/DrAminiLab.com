@@ -1,7 +1,7 @@
 ﻿<?php include('./inc/rotate/uphead.php') ?>
 	<!-- For Rotate 
 	<style type="text/css">
-	section.middle .about{
+	section.middle .about{    
      -webkit-transition:	all 900ms;}
 	body.preload section.middle .about{
         -webkit-transform:rotate(250deg) scale(0.0,0.0) translateY(10px) translateX(-5000px);}
@@ -12,6 +12,11 @@
 
 
 	<section class="middle">
+			<div class=pdfdown>
+				<a download="images/testplan.pdf" href=""><span>دانلود فایل برنامه آزمایشها</span></a>
+				<a href="images/testplan.pdf" target="_blank"><img class=pdflogo src="images/pdf-download.jpg"> </a> 
+			</div>
+
 		<div class="about">
 			<div class="contain">
 				<div class="daily">
@@ -73,6 +78,13 @@
 						<tr><td>Pro BNP</td><td>IGFBP3</td><td>IGF1</td><td>ACTH</td><td>ANCA</td><td>C Peptide</td><td>Inhibin A</td><td>HE4</td><td>DHT</td><td>AMH</td></tr>
 					</table>	
 				</div>
+
+
+
+
+				<br /><br />
+				<p>آزمایشهای بیوشیمی عمومی و اختصاصی، خون شناسی و سرولوژی روزانه انجام میشوند .
+				<br />تاریخ آخرین ویرایش : 1394/04/15 - تاریخ اجرا : 1394/05/01</p>
 
 
 			</div>
