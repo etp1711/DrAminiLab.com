@@ -14,6 +14,13 @@
 
 	<div class="organ">
 		<h3>سازمان ها و موسسات طرف قرارداد</h3>
+			
+
+
+		<img src="../images/organ/test.png">
+
+
+			<!--   
 			<ul>
 				<li><img src="../images/organ/1.jpg"></li>
 				<li><img src="../images/organ/2.jpg"></li>
@@ -27,7 +34,7 @@
 				<li><img src="../images/organ/10.jpg"></li>
 				<li><img src="../images/organ/11.jpg"></li>
 			</ul>
-
+				-->
 	</div>
 </section>
 </body>

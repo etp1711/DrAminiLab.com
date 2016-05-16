@@ -49,58 +49,36 @@
 		<div class="threebox">
 			<div class="content">
 
+
+
+				<!-- LEFT -->
 				<div class="left">
-					<h1>برنامه آزمایشها</h1>
-					<img src="images/left.jpg">
-					<h5>مراجعین و سایر آزمایشگاه ها برنامه انجام آزمایشها را در این قسمت میتوانند مشاهده نمایند </h5>
-					<a href="testplan.php" class="more" target="blank" >ادامه</a>
-				</div>
+					<div class="forth">
+						<div class="footslide"><h1>آزمایشگاه های همکار</h1>
+							<ul>
+								<li> <br /><br />
+									<!--   <a href="index-reception.php">دانلود فرمها</a>  -->
+								<a download="index-downloads/gharbalgari.pdf"	href="index-downloads/gharbalgari.pdf">دانلود فرم پرسشنامه غربالگری</a><br /><br />
+								<a download="index-downloads/ersali.pdf"		href="index-downloads/ersali.pdf">دانلود فرم آزمایشات ارسالی</a>			
 
-
-
-
-
-
-
-
-
-
-
-			<div class="middle">
-
-
-				<div class="forth">
-
-					<div class="footslide"><h1>خبرهاي آزمايشگاه</h1>
-						<div class="trainfoot">
-							<script type="text/javascript">
-								var slidesLen = 1;
-								for(var i=1;i<=slidesLen;i++){
-									document.write("<div><p><br />نمونه متن شماره 1111</p></div>");
-								}
-								var slidesLen = 1;
-								for(var i=1;i<=slidesLen;i++){
-									document.write("<div><p><br />نمونه متن شماره 2222</p></div>");
-								}
-								var slidesLen = 1;
-								for(var i=1;i<=slidesLen;i++){
-									document.write("<div><p><br />نمونه متن شماره 3333</p></div>");
-								}
-								
-					
-							</script>
+								</li>
+							</ul>
 						</div>
-							<div class="next"></div>
-							<div class="prv"></div>
-								<ul class="btnsfoot">
-									<script type="text/javascript">
-										for(i=0;i<slidesLen;i++){
-											document.write("<li></li>");
-										}
-									</script>
-								</ul>
 					</div>
 				</div>
+
+
+
+
+
+
+
+			<!-- Middle -->
+			<div class="middle">
+				<h1>برنامه آزمایشها</h1>
+				<img src="images/left.jpg">
+				<h5>مراجعین محترم و آزمایشگاههای همکار آخرین نسخه برنامه انجام آزمایشها را در این قسمت میتوانید مشاهده نمائید .</h5>
+				<a href="testplan.php" class="more" target="blank" >ادامه</a>
 			</div>
 
 
@@ -110,14 +88,18 @@
 
 
 
-
-
+				<!-- Right -->
 				<div class="right">
 					<h1>راهنمای بیماران</h1>
 					<img src="images/right.jpg">
 					<h5>مراجعین گرامی در این قسمت میتوانید از نحوه چگونگی انجام آزمایشها و شرایط لازم آزمایشها اطلاع یابید  </h5>
-					<a href="#guide.php" class="more" target="blank">ادامه</a>
+					<a href="guide.php" class="more" target="blank">ادامه</a>
 				</div>
+
+
+
+
+
 				<div class="badboy"></div>
 			</div>
 		</div>
@@ -133,9 +115,9 @@
 					<h5></h5>
 						<li><span><a href="index-submenus/iframe-organs.php" target="ilink">سازمان ها و موسسات طرف قرارداد</a></span></li>	
 						<li><span><a href="index-submenus/iframe-taghdir.php" target="ilink">گواهینامه ها و تقدیرنامه ها</a></span></li>
-						<li><span><a href="index-submenus/iframe-newtests.php" target="ilink">آزمايشهاي جديد</a></span></li>
+						
 						<li><span><a href="index-submenus/iframe-sites.php" target="ilink">سایتهای مرتبط</a></span> 
-						<li><span>سوالات متداول</span></li>	
+						
 				</div>
 
 

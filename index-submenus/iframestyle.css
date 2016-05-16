@@ -13,7 +13,7 @@ body{
 /*   Sazman ha    */
 section.iframe {
 	width: 						inherit;
-	min-height: 				inherit;
+	min-height: 				400px;
 	text-align: 				right;
 	
 }
@@ -21,34 +21,13 @@ section.iframe h3{
 	text-align: 			center;
 
 }
-section.iframe ul{
-	list-style-type: 		none;
+
+section.iframe .organ img{
+	width: 						600px;
+	height: 					310px;
+	
 }
 
-section.iframe .organ li{
-	margin-top: 			50px;
-	float: 					left;
-	margin-left: 			5px;
-	cursor: 				pointer;
-}
-section.iframe .organ li:first-child{
-	margin-left: 			0px;
-}
-section.iframe .organ img{
-	width: 					80px;
-	height: 				60px;
-	-webkit-transition: 		all 600ms;
-	-moz-transition: 			all 600ms;
-	-ms-transition: 			all 600ms;
-	-o-transition: 				all 600ms;	
-}
-section.iframe .organ img:hover{
-		
-	-webkit-transition: 		all 100ms;
-	-moz-transition: 			all 100ms;
-	-ms-transition: 			all 100ms;
-	-o-transition: 				all 100ms;	
-}
 
    /*  Taghdir Name ha     */
 

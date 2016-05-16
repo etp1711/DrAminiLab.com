@@ -13,7 +13,7 @@
 				
 				<div class="adress">
 					<h3>مشهد - پنجراه سناباد (ابن سینا) - جنب خیابان پاستور - پلاک 186</h3>
-					<h5>تلفن :&nbsp;&nbsp;&nbsp;19 41 3843&nbsp; و 20 41 3843<br />فکس :&nbsp;&nbsp;45 75 3840<br />draminilab@yahoo.com : ایمیل</h5>
+					<h5>تلفن :&nbsp;&nbsp;&nbsp;19 41 3843&nbsp; و 20 41 3843<br />فکس :&nbsp;&nbsp;45 74 3840<br />draminilab@yahoo.com : ایمیل</h5>
 					
 				</div>
 			</div>
