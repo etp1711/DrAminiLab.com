@@ -289,7 +289,7 @@ section.middle .threebox .content .left h1, section.middle .threebox .content .m
 	color: 					#3E3D3C;
 	font-size: 				23px;
 }
-section.middle .threebox .content .middle img, section.middle .threebox .content .right img{
+section.middle .threebox .content .middle img, section.middle .threebox .content .right img, section.middle .threebox .content .left img{
 	width: 					240px;
 	min-height: 			145px;
 	margin-top: 			15px;
