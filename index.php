@@ -53,18 +53,10 @@
 
 				<!-- LEFT -->
 				<div class="left">
-					<div class="forth">
-						<div class="footslide"><h1>آزمایشگاه های همکار</h1>
-							<ul>
-								<li> <br /><br />
-									<!--   <a href="index-reception.php">دانلود فرمها</a>  -->
-								<a download="index-downloads/gharbalgari.pdf"	href="index-downloads/gharbalgari.pdf">دانلود فرم پرسشنامه غربالگری</a><br /><br />
-								<a download="index-downloads/ersali.pdf"		href="index-downloads/ersali.pdf">دانلود فرم آزمایشات ارسالی</a>			
-
-								</li>
-							</ul>
-						</div>
-					</div>
+					<h1>اخبار و تازه ها</h1>
+					<img src="images/1.jpg">
+					<h5>مشاهده جدید ترین اخبار و تازه های آزمایشگاهی و پزشکی </h5>
+					<a href="#.php" class="more" target="blank" >ادامه</a>
 				</div>
 
 
@@ -76,8 +68,8 @@
 			<!-- Middle -->
 			<div class="middle">
 				<h1>برنامه آزمایشها</h1>
-				<img src="images/left.jpg">
-				<h5>مراجعین محترم و آزمایشگاههای همکار آخرین نسخه برنامه انجام آزمایشها را در این قسمت میتوانید مشاهده نمائید .</h5>
+				<img src="images/2.jpg">
+				<h5>مراجعین محترم و آزمایشگاههای همکار<br /> آخرین نسخه برنامه انجام آزمایشها را در این قسمت میتوانید مشاهده نمائید .</h5>
 				<a href="testplan.php" class="more" target="blank" >ادامه</a>
 			</div>
 
@@ -90,9 +82,9 @@
 
 				<!-- Right -->
 				<div class="right">
-					<h1>راهنمای بیماران</h1>
-					<img src="images/right.jpg">
-					<h5>مراجعین گرامی در این قسمت میتوانید از نحوه چگونگی انجام آزمایشها و شرایط لازم آزمایشها اطلاع یابید  </h5>
+					<h1>راهنمای بیماران و آزمایشگاههای همکار</h1>
+					<img src="images/3.jpg">
+					<h5>در این قسمت چگونگی  و شرایط  انجام آزمایشها و همچنین دانلود فرمهای مربوط به آزمایشگاه ها در این قسمت قابل ارائه است .     </h5>
 					<a href="guide.php" class="more" target="blank">ادامه</a>
 				</div>
 
@@ -151,6 +143,38 @@
 
 		<!-- ......... -->
 		<!-- Portion -->
+
+
+
+
+<!--
+
+<div class="forth">
+						<div class="footslide"><h1>اخبار و تازه ها</h1>
+							<ul>
+								<li> <br /><br />
+									  <a href="index-reception.php">دانلود فرمها</a>  
+								<a download="index-downloads/gharbalgari.pdf"	href="index-downloads/gharbalgari.pdf">دانلود فرم پرسشنامه غربالگری</a><br /><br />
+								<a download="index-downloads/ersali.pdf"		href="index-downloads/ersali.pdf">دانلود فرم آزمایشات ارسالی</a>			
+
+								</li>
+							</ul>
+						</div>
+					</div>
+
+
+
+
+-->
+
+
+
+
+
+
+
+
+
 
 
 
